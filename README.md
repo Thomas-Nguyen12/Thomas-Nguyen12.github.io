@@ -2,6 +2,9 @@
 
 
 ## About me 
+
+![image][linkedin_picture.JPG] 
+
 Hi there, I am a 21-year-old MScR Biomolecular Science Student passionate about all things A.I and Data Science! I am currently learning about time series analysis applied towards finance and stocks. 
 
 I have worked on weather analysis and exchange rate projects which can be found <u>here</u>: 
