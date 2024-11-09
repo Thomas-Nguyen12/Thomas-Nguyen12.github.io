@@ -3,7 +3,7 @@
 
 ## About me 
 
-![alt text](https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/linkedin_picture.jpg?raw=true)
+![alt text](https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/linkedin_picture.jpg?raw=true)
 
 
 
