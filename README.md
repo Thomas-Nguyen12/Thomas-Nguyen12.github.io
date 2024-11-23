@@ -13,9 +13,9 @@ I have worked on weather analysis and exchange rate projects which can be found 
 
 - <b>Undergraduate penultimate year research project</b>: https://github.com/Thomas-Nguyen12/5023Y-Summative-2
 
-- <b>Weather Website:</b> https://weatherwebsite-e867owveht.streamlit.app/
+- <b>Weather Dashboard:</b> https://weatherwebsite-e867owveht.streamlit.app/
 
-- <b>Exchange Rate Website:</b> https://gbp-rupiah-exchange.streamlit.app/
+- <b>Exchange Rate Dashboard:</b> https://gbp-rupiah-exchange.streamlit.app/
 
 In the future, I plan on learning more about how Natural Language Processing (NLP) and Deep Learning can be used to parse through news data and generate valuable summaries and predictions.
 
