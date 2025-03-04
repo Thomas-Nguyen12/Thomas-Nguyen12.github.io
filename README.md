@@ -20,5 +20,5 @@ I have worked on weather analysis and exchange rate projects which can be found 
 In the future, I plan on learning more about how Natural Language Processing (NLP) and Deep Learning can be used to parse through news data and generate valuable summaries and predictions.
 
 ## Contact Information
-Email: tom.nguyen@ntlworld.com
+Email: thomas.nguyen3612@gmail.com
 
