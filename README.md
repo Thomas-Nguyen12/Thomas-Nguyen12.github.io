@@ -7,13 +7,13 @@
 
 
 
-Hi there, I am a 21-year-old MScR Biomolecular Science (Bioinformatics) Student passionate about all things A.I and Data Science! I am currently learning about time series analysis applied towards finance and stocks. 
+Hi there, I am a 22-year-old MScR Biomolecular Science (Bioinformatics) Student passionate about all things A.I and Data Science! I am currently learning about time series analysis applied towards finance and stocks. 
 
 I have worked on weather analysis and exchange rate projects which can be found <u>here</u>: 
 
 - <b>Undergraduate penultimate year research project</b>: https://github.com/Thomas-Nguyen12/5023Y-Summative-2
 
-- <b>Weather Dashboard:</b> https://weatherwebsite-e867owveht.streamlit.app/
+- <b>Weather Dashboard:</b> https://thomas-website.streamlit.app/
 
 - <b>Exchange Rate Dashboard:</b> https://gbp-rupiah-exchange.streamlit.app/
 
