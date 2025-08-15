@@ -18,6 +18,8 @@ I have worked on weather analysis and exchange rate projects which can be found 
 - <b>Exchange Rate Dashboard:</b> https://gbp-rupiah-exchange.streamlit.app/
 
 - <b>ATAC-Seq pipeline:</b> https://github.com/Thomas-Nguyen12/ATAC-Seq-Pipeline
+  
+- <b>RNA-Seq Pipeline:</b> https://github.com/Thomas-Nguyen12/RNA-Seq-Pipeline
 
 In the future, I plan on learning more about how Natural Language Processing (NLP) and Deep Learning can be used to parse through news data and generate valuable summaries and predictions.
 
