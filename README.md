@@ -39,6 +39,7 @@ A wrapper script to process raw .fastq files, cleaning them and analysing them t
 In the future, I plan on learning more about how Natural Language Processing (NLP) and Deep Learning can be used to parse through news data and generate valuable summaries and predictions.
 
 ## Contact Information
-Email: thomas.nguyen3612@gmail.com
-LinkedIn: https://www.linkedin.com/in/thomas-nguyen-818b63185/
+- Email: thomas.nguyen3612@gmail.com
+  
+- LinkedIn: https://www.linkedin.com/in/thomas-nguyen-818b63185/
 
