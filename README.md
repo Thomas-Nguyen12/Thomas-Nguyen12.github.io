@@ -7,9 +7,9 @@
 
 
 
-Hi there, I am a 22-year-old MScR Biomolecular Science (Bioinformatics) Student passionate about all things A.I and Data Science! I am currently learning about time series analysis applied towards finance and stocks. 
+Hi there, I am a 22-year-old MScR Biomolecular Science (Bioinformatics) Student passionate about all things A.I and Data Science! I am currently learning about time series analysis applied towards finance, stocks and the Weather. I am detail-oriented and always willing to learn new skills! I am skilled in Python, R, SQL, UNIX and an intermediate in Java. 
 
-I have worked on weather analysis and exchange rate projects which can be found <u>here</u>: 
+My Projects can be found <u>here</u>: 
 
 ## Projects:
 
@@ -29,12 +29,12 @@ This project is a study on how the Hesperia Comma flies can grow in response to 
 https://github.com/Thomas-Nguyen12/5023Y-Summative-2
 
 ### 📊 ATAC-Seq pipeline: 📊
-A wrapper script to process raw .fastq files and determine the open regions of DNA in samples and find the statistically different regions between samples. This project implements data cleaning and modelling, error handling, and software development skills - intended as a comprehensive and easy-to-use script that performs the full analysis in one command.
+A wrapper script to process raw .fastq files and determine the open regions of DNA in samples and find the statistically differences between samples using UNIX and R. This project implements data cleaning and modelling, error handling, and software development skills - intended as a comprehensive and easy-to-use script that performs the full analysis in one command.
 
 https://github.com/Thomas-Nguyen12/ATAC-Seq-Pipeline
   
 ### 📊 RNA-Seq Pipeline: 📊
-A wrapper script to process raw .fastq files, cleaning them and analysing them to investigate gene expression and find statistically different gene expression between samples. This project uses data cleaning, modelling - designed to implement a comprehensive and error-free analysis in one command 
+A wrapper script to process raw .fastq files, cleaning them and analysing them to investigate gene expression and find statistically differences between samples using UNIX and R. This project uses data cleaning, modelling - designed to implement a comprehensive and error-free analysis in one command 
 
 https://github.com/Thomas-Nguyen12/RNA-Seq-Pipeline
 
