@@ -11,7 +11,7 @@ Hi there, I am a 22-year-old MScR Biomolecular Science (Bioinformatics) Student 
 
 I have worked on weather analysis and exchange rate projects which can be found <u>here</u>: 
 
-### Projects:
+## Projects:
 
 ### ☔ Weather Dashboard: ☔
 A Dashboard app to visualise weather data and greenhouse emission trends over time - using M.L models to predict which countries have certain types and amounts of emissions 
