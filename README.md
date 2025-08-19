@@ -1,4 +1,4 @@
-# Thomas-Nguyen12.github.io
+<img width="468" height="33" alt="image" src="https://github.com/user-attachments/assets/180286ef-87ed-4007-97f5-8bddfa398490" /># Thomas-Nguyen12.github.io
 
 
 ## About me 
@@ -9,7 +9,7 @@
 
 Hi there, I am a 22-year-old MScR Biomolecular Science (Bioinformatics) Student passionate about all things A.I and Data Science! I am currently learning about time series analysis applied towards finance, stocks and the Weather. I am detail-oriented and always willing to learn new skills! I am skilled in Python, R, SQL, UNIX and an intermediate in Java. I enjoy Dashboarding, Predictive Analytics and the full Data Science life cycle!
 
-My Projects can be found <u>here</u>: 
+My Education background can be found here: [Education][Education.md]
 
 ## Projects:
 
@@ -27,6 +27,14 @@ https://gbp-rupiah-exchange.streamlit.app/
 This project is a study on how the Hesperia Comma flies can grow in response to climate change.  This study uses R to perform data cleaning, exploratory analysis and modelling tabular data using R and R markdown.
 
 https://github.com/Thomas-Nguyen12/5023Y-Summative-2
+
+### Undergraduate Final Research Project 
+
+●	A research study into DNA methylation profiles in the Placenta using R. 
+●	Key skills include report automation using Quarto, R, data collection, data cleaning, linear modelling and exploratory analysis.
+
+Unfortunately, this project contains unpublished data, so I cannot display any results on GitHub until then. 
+
 
 ### 📊 ATAC-Seq pipeline: 📊
 A wrapper script to process raw .fastq files and determine the open regions of DNA in samples and find the statistically differences between samples using UNIX and R. This project implements data cleaning and modelling, error handling, and software development skills - intended as a comprehensive and easy-to-use script that performs the full analysis in one command.
