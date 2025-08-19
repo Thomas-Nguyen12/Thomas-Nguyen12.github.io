@@ -1,6 +1,6 @@
 # EDUCATION       
 
-## University of East Anglia | Norwich, England Oct 2024 - 
+## University of East Anglia | Norwich, England Oct 2024 - Current
 
 MScR. Biomolecular Science (Bioinformatics)
 Predicted a distinction        
