@@ -16,17 +16,17 @@ My Educational background can be found here: [Education](Education.md)
 ### ☔ Weather Dashboard: ☔
 A Dashboard app to visualise weather data and greenhouse emission trends over time - using M.L models to predict which countries have certain types and amounts of emissions 
 
-https://thomas-website.streamlit.app/
+[Weather Dashboard](https://thomas-website.streamlit.app/)
 
 ### 📈 Exchange Rate Dashboard: 📉 
 A dashboard app that tracks British Pound (GBP) to Indonesian Rupiah (IDR) exchange rates - performing time series analysis and applying several models to predict future trends. Currently, this app needs to be updated manually. However, I am currently working on ways to update it in real time without relying on subscription services.
 
-https://gbp-rupiah-exchange.streamlit.app/ 
+[Exchange Rate Dashboard](https://gbp-rupiah-exchange.streamlit.app/)
 
 ### 🔬 Undergraduate penultimate year research project: 🔬
 This project is a study on how the Hesperia Comma flies can grow in response to climate change.  This study uses R to perform data cleaning, exploratory analysis and modelling tabular data using R and R markdown.
 
-https://github.com/Thomas-Nguyen12/5023Y-Summative-2
+[Hesperia Comma Research study](https://github.com/Thomas-Nguyen12/5023Y-Summative-2)
 
 ### Undergraduate Final Research Project 
 
@@ -39,12 +39,12 @@ Unfortunately, this project contains unpublished data, so I cannot display any r
 ### 📊 ATAC-Seq pipeline: 📊
 A wrapper script to process raw .fastq files and determine the open regions of DNA in samples and find the statistically differences between samples using UNIX and R. This project implements data cleaning and modelling, error handling, and software development skills - intended as a comprehensive and easy-to-use script that performs the full analysis in one command.
 
-https://github.com/Thomas-Nguyen12/ATAC-Seq-Pipeline
+[ATAC-Seq Analysis Pipeline](https://github.com/Thomas-Nguyen12/ATAC-Seq-Pipeline)
   
 ### 📊 RNA-Seq Pipeline: 📊
 A wrapper script to process raw .fastq files, cleaning them and analysing them to investigate gene expression and find statistically differences between samples using UNIX and R. This project uses data cleaning, modelling - designed to implement a comprehensive and error-free analysis in one command 
 
-https://github.com/Thomas-Nguyen12/RNA-Seq-Pipeline
+[RNA-Seq Analysis Pipeline](https://github.com/Thomas-Nguyen12/RNA-Seq-Pipeline)
 
 ## Upcoming Projects
 
