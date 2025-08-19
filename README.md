@@ -30,8 +30,8 @@ https://github.com/Thomas-Nguyen12/5023Y-Summative-2
 
 ### Undergraduate Final Research Project 
 
-●	A research study into DNA methylation profiles in the Placenta using R. 
-●	Key skills include report automation using Quarto, R, data collection, data cleaning, linear modelling and exploratory analysis.
+- A research study into DNA methylation profiles in the Placenta using R.
+- Key skills include report automation using Quarto, R, data collection, data cleaning, linear modelling and exploratory analysis.
 
 Unfortunately, this project contains unpublished data, so I cannot display any results on GitHub until then. 
 
