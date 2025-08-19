@@ -28,7 +28,7 @@ This project is a study on how the Hesperia Comma flies can grow in response to 
 
 [Hesperia Comma Research study](https://github.com/Thomas-Nguyen12/5023Y-Summative-2)
 
-### Undergraduate Final Research Project 
+### 🔬 Undergraduate Final Research Project 🔬
 
 - A research study into DNA methylation profiles in the Placenta using R.
 - Key skills include report automation using Quarto, R, data collection, data cleaning, linear modelling and exploratory analysis.
