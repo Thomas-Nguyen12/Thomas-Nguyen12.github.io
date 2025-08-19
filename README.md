@@ -9,7 +9,7 @@
 
 Hi there, I am a 22-year-old MScR Biomolecular Science (Bioinformatics) Student passionate about all things A.I and Data Science! I am currently learning about time series analysis applied towards finance, stocks and the Weather. I am detail-oriented and always willing to learn new skills! I am skilled in Python, R, SQL, UNIX and an intermediate in Java. I enjoy Dashboarding, Predictive Analytics and the full Data Science life cycle!
 
-My Education background can be found here: [Education][Education.md]
+My Education background can be found here: [Education](Education.md)
 
 ## Projects:
 
