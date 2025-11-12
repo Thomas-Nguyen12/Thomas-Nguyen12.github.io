@@ -46,9 +46,12 @@ A wrapper script to process raw .fastq files, cleaning them and analysing them t
 
 [RNA-Seq Analysis Pipeline](https://github.com/Thomas-Nguyen12/RNA-Seq-Pipeline)
 
-## Upcoming Projects
+### News Classification website: 
+A dashboard app that can classify news categories, using web-scraping to collect news training data.
 
-- <b>News Classification website:</b> A dashboard app that can classify news categories, using web-scraping to collect news training data.
+https://github.com/Thomas-Nguyen12/NewsApp/tree/main
+
+## Upcoming Projects
 
 - <b>Loan Prediction Website:</b> A dashboard app to predict loan eligibility. Also leveraging Quarto for technical documents.
 
