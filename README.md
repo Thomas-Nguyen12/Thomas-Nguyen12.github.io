@@ -49,7 +49,7 @@ A wrapper script to process raw .fastq files, cleaning them and analysing them t
 ### News Classification website: 
 A dashboard app that can classify news categories, using web-scraping to collect news training data.
 
-https://github.com/Thomas-Nguyen12/NewsApp/tree/main
+https://github.com/Thomas-Nguyen12/NewsApplication
 
 ## Upcoming Projects
 
