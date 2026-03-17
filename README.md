@@ -51,6 +51,10 @@ A dashboard app that can classify news categories, using web-scraping to collect
 
 https://github.com/Thomas-Nguyen12/NewsApplication
 
+### AI-generated News website:
+A dashboard app to identify AI-Generated news articles, using published datasets from Arvix:
+[News Shield](https://newsshield.streamlit.app)
+
 ## Upcoming Projects
 
 - <b>Loan Prediction Website:</b> A dashboard app to predict loan eligibility. Also leveraging Quarto for technical documents.
