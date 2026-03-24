@@ -47,13 +47,9 @@ A wrapper script to process raw .fastq files, cleaning them and analysing them t
 
 [RNA-Seq Analysis Pipeline](https://github.com/Thomas-Nguyen12/RNA-Seq-Pipeline)
 
-### News Classification website: 
-A dashboard app that can classify news categories, using web-scraping to collect news training data.
+### News Classification website and AI-generated News: 
+A dashboard app that can classify news categories and identify AI-Generated news articles, using published datasets from Arvix, and web-scraping.
 
-https://github.com/Thomas-Nguyen12/NewsApplication
-
-### AI-generated News website:
-A dashboard app to identify AI-Generated news articles, using published datasets from Arvix:
 [News Shield](https://newsshield.streamlit.app)
 
 ## Upcoming Projects
