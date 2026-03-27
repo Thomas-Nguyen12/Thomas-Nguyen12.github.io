@@ -17,7 +17,7 @@ Hi there, I am a 22-year-old MScR Biomolecular Science (Bioinformatics) Student 
 ### ☔ Weather Dashboard: ☔
 A Dashboard app to visualise weather data and greenhouse emission trends over time - using M.L models to predict which countries have certain types and amounts of emissions 
 
-[Weather Dashboard](https://thomas-website.streamlit.app/)
+[Weather Dashboard](https://weather-emission.streamlit.app/)
 
 ### 📈 Exchange Rate Dashboard: 📉 
 A dashboard app that tracks British Pound (GBP) to Indonesian Rupiah (IDR) exchange rates - performing time series analysis and applying several models to predict future trends. Currently, this app needs to be updated manually. However, I am currently working on ways to update it in real time without relying on subscription services.
