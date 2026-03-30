@@ -1,9 +1,9 @@
 # EDUCATION       
 
-## University of East Anglia | Norwich, England Oct 2024 - Current
+## University of East Anglia | Norwich, England Oct 2024 - July 2026 (graduation date)
 
 MScR. Biomolecular Science (Bioinformatics)
-Predicted a distinction        
+All Degree requirements achieved and awaiting graduation      
        
 Pure Bioinformatics research-based degree focused on identifying unique regulatory elements related to polymorphic imprinting using R and High-Performance Computing (HPC) clusters. Findings are regularly presented to wet lab members and non-technical staff. Key skills include big data analytics, science communication, Software Development, High Performance Computing, Linux, SLURM directives, and collaboration with academics in an academic environment. This is a BBSRC-funded project.
        
