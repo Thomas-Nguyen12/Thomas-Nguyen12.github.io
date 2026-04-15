@@ -1,6 +1,6 @@
 # EDUCATION       
 
-## University of East Anglia | Norwich, England Oct 2024 - July 2026 (graduation date)
+## University of East Anglia | Norwich, England Oct 2024 - April 2026
 
 MScR. Biomolecular Science (Bioinformatics)
 All Degree requirements achieved and awaiting graduation      
