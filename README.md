@@ -52,7 +52,7 @@ The project demonstrates how data engineering, statistical modelling, and visual
 <img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/news.jpg?raw=true" alt="News Shield AI Detection" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View NewsShield app](https://newsshield.streamlit.app)
-🔗 [View Vinfast Stock app](vinfast-stock-analysis.streamlit.app) 
+🔗 [View Vinfast Stock app](https://vinfast-stock-analysis.streamlit.app)
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/NewsApplication)
 
 This project combines time‑series forecasting, NLP‑driven news classification, and automated data pipelines to analyse how real‑time news sentiment influences VinFast's stock behaviour.
