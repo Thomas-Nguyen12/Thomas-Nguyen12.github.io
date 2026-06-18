@@ -45,6 +45,7 @@ The project demonstrates how data engineering, statistical modelling, and visual
 
 ### 📰 News Shield — AI Detection & Classification
 
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/news.jpg?raw=true" alt="Thomas Nguyen" width="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
 🔗 [View app](https://newsshield.streamlit.app)
 🔗 [View app](vinfast-stock-analysis.streamlit.app/) 
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/NewsApplication)
