@@ -29,7 +29,9 @@ The goal is to provide a practical, accessible tool for stakeholders to monitor 
 
 ### 📈 Exchange‑Rate Time Series Analysis & Forecasting Tool
 This project explores the dynamics between GBP and the Indonesian Rupiah through a full end‑to‑end time‑series analysis pipeline. I built a system that automatically collects historical exchange‑rate data using web‑scraping (Requests + BeautifulSoup), cleans and structures the data, and then applies forecasting techniques to uncover trends, volatility patterns, and potential future movements.
+
 The results are presented through an interactive Streamlit dashboard, allowing users to explore historical behaviour, inspect model outputs, and monitor currency shifts in real time.
+
 The project demonstrates how data engineering, statistical modelling, and visual analytics can be combined to create a practical tool for understanding and predicting currency behaviour — offering a clear, accessible way to track macro‑economic signals and support decision‑making.
 
 🔗 [View app](https://gbp-rupiah-exchange.streamlit.app/)
