@@ -105,6 +105,9 @@ This project demonstrates how data science, statistical genomics, and workflow e
 
 ### 🦋 Hesperia comma Morphometrics & Environmental Impact Analysis
 
+
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/nature.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+
 🔗 [View on GitHub](https://github.com/Thomas-Nguyen12/5023Y-Summative-2)
 
 This project investigates how environmental temperature influences wing morphology in Hesperia comma, using a full data‑science workflow to uncover ecological and developmental patterns. Working with real biological measurements, I built an analytical pipeline that cleans, structures, and models wing‑length data to understand how climate variation shapes phenotypic traits.
@@ -119,6 +122,10 @@ This project demonstrates how data science, ecology, and quantitative biology ca
 ---
 
 ### 🔬 Placental DNA Methylation Profiling & Epigenetic Pattern Analysis
+
+
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/dna methylation.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+
 
 > ⚠️ Results pending publication — code and findings will be shared on GitHub upon release.
 > 
