@@ -31,6 +31,8 @@ The goal is to provide a practical, accessible tool for stakeholders to monitor 
 
 ### 📈 Exchange‑Rate Time Series Analysis & Forecasting Tool
 
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/world_currency.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+
 🔗 [View app](https://gbp-rupiah-exchange.streamlit.app/)
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/GBP_Rupiah_Exchange)
 
