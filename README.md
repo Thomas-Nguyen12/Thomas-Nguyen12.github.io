@@ -71,6 +71,8 @@ It’s a practical example of blending data engineering, machine learning, and e
 
 ### 🧬 ATAC‑seq Peak Overlap & Regulatory Element Analysis
 
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/ATAC DNA.webp?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+
 🔗 [View on GitHub](https://github.com/Thomas-Nguyen12/ATAC-Seq-Pipeline)
 
 This project focuses on uncovering regulatory differences between cell types using ATAC‑seq chromatin accessibility data. I built an analytical workflow that identifies, quantifies, and interprets accessible genomic regions, with a particular focus on peak overlaps, cell‑type‑specific accessibility, and statistical significance testing.
