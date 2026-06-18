@@ -15,7 +15,7 @@ MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and da
 
 ### 🌦 Global Weather & Emissions Intelligence Dashboard
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/greenhouse_emissions.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300"/>
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/greenhouse_emissions.jpg?raw=true" alt="Global Weather & Emissions Dashboard" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View app](https://weather-emission.streamlit.app/)
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/Weather_website)
@@ -33,7 +33,7 @@ The goal is to provide a practical, accessible tool for stakeholders to monitor 
 
 ### 📈 Exchange‑Rate Time Series Analysis & Forecasting Tool
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/world_currency.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/world_currency.jpg?raw=true" alt="Exchange Rate Time Series Forecasting" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View app](https://gbp-rupiah-exchange.streamlit.app/)
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/GBP_Rupiah_Exchange)
@@ -49,29 +49,28 @@ The project demonstrates how data engineering, statistical modelling, and visual
 
 ### 📰 News Shield — AI Detection & Classification
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/news.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
-
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/news.jpg?raw=true" alt="News Shield AI Detection" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View app](https://newsshield.streamlit.app)
 🔗 [View app](vinfast-stock-analysis.streamlit.app/) 
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/NewsApplication)
 
-This project combines time‑series forecasting, NLP‑driven news classification, and automated data pipelines to analyse how real‑time news sentiment influences VinFast’s stock behaviour.
+This project combines time‑series forecasting, NLP‑driven news classification, and automated data pipelines to analyse how real‑time news sentiment influences VinFast's stock behaviour.
 Built as an interactive Streamlit dashboard, it brings together:
 - Web‑scraped news feeds processed with a custom NLP pipeline (SpaCy + multi‑label classification)
 - Sentiment‑aware forecasting models that predict short‑term stock movement
 - Automated data ingestion using Scrapy, Requests, and BeautifulSoup
 - Visual analytics that help users explore volatility, sentiment shifts, and market signals
-The goal is to create a tool that improves market research efficiency by automating sentiment extraction and providing forward‑looking insights into how narrative trends may shape VinFast’s price dynamics.
+The goal is to create a tool that improves market research efficiency by automating sentiment extraction and providing forward‑looking insights into how narrative trends may shape VinFast's price dynamics.
 
-It’s a practical example of blending data engineering, machine learning, and explainable analytics into a single, decision‑support application.
+It's a practical example of blending data engineering, machine learning, and explainable analytics into a single, decision‑support application.
 
 
 ---
 
 ### 🧬 ATAC‑seq Peak Overlap & Regulatory Element Analysis
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/ATAC DNA.webp?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/ATAC DNA.webp?raw=true" alt="ATAC-seq Regulatory Element Analysis" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View on GitHub](https://github.com/Thomas-Nguyen12/ATAC-Seq-Pipeline)
 
@@ -88,7 +87,7 @@ This project demonstrates how computational genomics, statistical modelling, and
 
 ### 🧬 RNA‑seq Differential Expression & Functional Insight Pipeline
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/gene expression.jpeg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/gene expression.jpeg?raw=true" alt="RNA-seq Differential Expression Pipeline" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View on GitHub](https://github.com/Thomas-Nguyen12/RNA-Seq-Pipeline)
 
@@ -105,8 +104,7 @@ This project demonstrates how data science, statistical genomics, and workflow e
 
 ### 🦋 Hesperia comma Morphometrics & Environmental Impact Analysis
 
-
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/nature.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/nature.jpg?raw=true" alt="Hesperia comma Morphometrics Analysis" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View on GitHub](https://github.com/Thomas-Nguyen12/5023Y-Summative-2)
 
@@ -123,9 +121,7 @@ This project demonstrates how data science, ecology, and quantitative biology ca
 
 ### 🔬 Placental DNA Methylation Profiling & Epigenetic Pattern Analysis
 
-
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/dna methylation.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
-
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/dna methylation.jpg?raw=true" alt="Placental DNA Methylation Profiling" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 > ⚠️ Results pending publication — code and findings will be shared on GitHub upon release.
 > 
