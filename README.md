@@ -88,6 +88,8 @@ This project demonstrates how computational genomics, statistical modelling, and
 
 ### 🧬 RNA‑seq Differential Expression & Functional Insight Pipeline
 
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/gene expression.jpeg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+
 🔗 [View on GitHub](https://github.com/Thomas-Nguyen12/RNA-Seq-Pipeline)
 
 This project delivers a full end‑to‑end RNA‑seq analysis workflow designed to uncover how gene expression changes across biological conditions. I built a reproducible pipeline that processes raw FASTQ files through quality control, alignment‑free quantification, differential expression analysis, and biological interpretation.
