@@ -15,6 +15,8 @@ MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and da
 
 ### 🌦 Global Weather & Emissions Intelligence Dashboard
 
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/greenhouse_emissions.jpg?raw=true" alt="Thomas Nguyen" width="800" height="300" style="border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;" />
+
 🔗 [View app](https://weather-emission.streamlit.app/)
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/Weather_website)
 
