@@ -11,7 +11,22 @@ MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and da
 
 ---
 
+<!-- NAVIGATION BAR -->
+<div align="center">
+
+  <a href="#projects"><strong>Projects</strong></a> &nbsp;•&nbsp;
+  <a href="#data-science--finance"><strong>Data Science & Finance</strong></a> &nbsp;•&nbsp;
+  <a href="#bioinformatics--genomics"><strong>Bioinformatics</strong></a> &nbsp;•&nbsp;
+  <a href="#upcoming-projects"><strong>Upcoming</strong></a> &nbsp;•&nbsp;
+  <a href="#contact"><strong>Contact</strong></a>
+
+</div>
+
+---
+
 ## Projects
+
+### Data Science & Finance
 
 ### 🌦 Global Weather & Emissions Intelligence Dashboard
 
@@ -26,8 +41,10 @@ The dashboard allows users to:
 - Compare countries across multiple environmental indicators
 - Explore ML‑driven classifications that highlight high‑impact regions
 - Investigate climate patterns using real‑time, continuously updated data
+
 The goal is to provide a practical, accessible tool for stakeholders to monitor climate change, understand environmental risk, and make data‑driven decisions. It showcases how data engineering, modelling, and visual storytelling can turn complex environmental datasets into meaningful insight.
 
+[↑ Back to top](#thomas-nguyen)
 
 ---
 
@@ -44,6 +61,7 @@ The results are presented through an interactive Streamlit dashboard, allowing u
 
 The project demonstrates how data engineering, statistical modelling, and visual analytics can be combined to create a practical tool for understanding and predicting currency behaviour — offering a clear, accessible way to track macro‑economic signals and support decision‑making.
 
+[↑ Back to top](#thomas-nguyen)
 
 ---
 
@@ -61,12 +79,16 @@ Built as an interactive Streamlit dashboard, it brings together:
 - Sentiment‑aware forecasting models that predict short‑term stock movement
 - Automated data ingestion using Scrapy, Requests, and BeautifulSoup
 - Visual analytics that help users explore volatility, sentiment shifts, and market signals
+
 The goal is to create a tool that improves market research efficiency by automating sentiment extraction and providing forward‑looking insights into how narrative trends may shape VinFast's price dynamics.
 
 It's a practical example of blending data engineering, machine learning, and explainable analytics into a single, decision‑support application.
 
+[↑ Back to top](#thomas-nguyen)
 
 ---
+
+### Bioinformatics & Genomics
 
 ### 🧬 ATAC‑seq Peak Overlap & Regulatory Element Analysis
 
@@ -79,9 +101,11 @@ The pipeline includes:
 - Peakset integration & comparison across cell types (e.g., hTSC vs stromal)
 - Genome‑wide visualisation of accessibility patterns and regulatory hotspots
 - Automated preprocessing using UNIX, R, and high‑performance computing environments
-= Biological interpretation linking accessible regions to potential regulatory elements and imprinting‑related mechanisms
+- Biological interpretation linking accessible regions to potential regulatory elements and imprinting‑related mechanisms
+
 This project demonstrates how computational genomics, statistical modelling, and reproducible workflow design can be combined to extract meaningful regulatory insights from large‑scale ATAC‑seq datasets. It reflects my ability to work at the intersection of data science, bioinformatics, and biological interpretation, turning raw sequencing data into actionable scientific understanding.
 
+[↑ Back to top](#thomas-nguyen)
 
 ---
 
@@ -97,8 +121,10 @@ The workflow includes:
 - Differential expression modelling using DESeq2 to identify significantly regulated genes
 - Exploratory analysis (PCA, clustering, sample QC) to detect patterns and batch effects
 - Reproducible reporting using Quarto/Rmarkdown for clear communication to technical and non‑technical stakeholders
+
 This project demonstrates how data science, statistical genomics, and workflow engineering can be combined to turn raw sequencing data into actionable biological insight. It reflects my ability to work with large‑scale omics datasets, build robust analytical pipelines, and communicate complex results with clarity.
 
+[↑ Back to top](#thomas-nguyen)
 
 ---
 
@@ -114,8 +140,10 @@ The workflow includes:
 - Statistical modelling to quantify the relationship between temperature and wing length
 - Exploratory visualisation to reveal developmental trends and population‑level variation
 - Reproducible reporting using Rmarkdown to communicate findings clearly to scientific audiences
+
 This project demonstrates how data science, ecology, and quantitative biology can be combined to extract meaningful insight from field‑collected datasets. It reflects my ability to analyse biological variation, interpret environmental effects, and present results in a way that supports both scientific understanding and practical conservation perspectives.
 
+[↑ Back to top](#thomas-nguyen)
 
 ---
 
@@ -124,7 +152,7 @@ This project demonstrates how data science, ecology, and quantitative biology ca
 <img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/dna methylation.jpg?raw=true" alt="Placental DNA Methylation Profiling" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 > ⚠️ Results pending publication — code and findings will be shared on GitHub upon release.
-> 
+
 This project investigates DNA methylation patterns in human placental tissue, exploring how epigenetic variation shapes gene regulation during development. I built a full analytical workflow in R that processes raw methylation data, performs statistical modelling, and visualises genome‑wide methylation trends.
 The workflow includes:
 - Data cleaning & preprocessing of methylation arrays to ensure high‑quality CpG measurements
@@ -132,8 +160,10 @@ The workflow includes:
 - Linear modelling to identify differentially methylated positions and regions
 - Exploratory visualisation to reveal regulatory hotspots and biological patterns
 - Reproducible reporting using Quarto/Rmarkdown to communicate results clearly and transparently
+
 This project demonstrates how data science, epigenetics, and statistical modelling can be combined to extract meaningful biological insight from high‑dimensional methylation datasets. It reflects my ability to work with complex omics data, design robust analytical pipelines, and translate technical findings into clear scientific narratives.
 
+[↑ Back to top](#thomas-nguyen)
 
 ---
 
@@ -141,6 +171,8 @@ This project demonstrates how data science, epigenetics, and statistical modelli
 
 - **Loan Prediction App** — A dashboard to predict loan eligibility, with Quarto-generated technical documentation.
 - **Language Translation App** — English ↔ Indonesian translation using transformer models and data cleaning techniques.
+
+[↑ Back to top](#thomas-nguyen)
 
 ---
 
@@ -156,3 +188,5 @@ Looking ahead, I plan to deepen my work in Natural Language Processing and Deep 
 |---|---|
 | 📧 Email | [thomas.nguyen3612@gmail.com](mailto:thomas.nguyen3612@gmail.com) |
 | 💼 LinkedIn | [thomas-nguyen-818b63185](https://www.linkedin.com/in/thomas-nguyen-818b63185/) |
+
+[↑ Back to top](#thomas-nguyen)
