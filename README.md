@@ -86,6 +86,8 @@ The goal is to create a tool that improves market research efficiency by automat
 
 It's a practical example of blending data engineering, machine learning, and explainable analytics into a single, decision‑support application.
 
+**Note:** The vinfast stock app is still **under development**. There are many more updates coming soon!
+
 [↑ Back to top](#thomas-nguyen)
 
 ---
