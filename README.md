@@ -33,7 +33,7 @@ MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and da
 <img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/weather_website_gif.gif?raw=true" alt="Global Weather & Emissions Dashboard" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View app](https://weather-emission.streamlit.app/)
-🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/Weather_website)
+🐙 [View on GitHub](https://github.com/Thomas-Nguyen12/Weather_website)
 
 This project brings together climate data, machine learning, and interactive analytics to explore how greenhouse‑gas emissions and weather patterns vary across the world. I built a Streamlit dashboard that automatically collects global climate and emissions data through API integrations, preprocesses it in Python, and applies ML models to classify countries by emission category.
 The dashboard allows users to:
@@ -53,7 +53,7 @@ The goal is to provide a practical, accessible tool for stakeholders to monitor 
 <img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/gbp_rupiah.gif?raw=true" alt="Exchange Rate Time Series Forecasting" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View app](https://gbp-rupiah-exchange.streamlit.app/)
-🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/GBP_Rupiah_Exchange)
+🐙 [View on GitHub](https://github.com/Thomas-Nguyen12/GBP_Rupiah_Exchange)
 
 This project explores the dynamics between GBP and the Indonesian Rupiah through a full end‑to‑end time‑series analysis pipeline. I built a system that automatically collects historical exchange‑rate data using web‑scraping (Requests + BeautifulSoup), cleans and structures the data, and then applies forecasting techniques to uncover trends, volatility patterns, and potential future movements.
 
@@ -73,7 +73,7 @@ The project demonstrates how data engineering, statistical modelling, and visual
 
 🔗 [View NewsShield app](https://newsshield.streamlit.app)
 🔗 [View Vinfast Stock app](https://vinfast-stock-analysis.streamlit.app)
-🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/NewsApplication)
+🐙 [View on GitHub](https://github.com/Thomas-Nguyen12/NewsApplication)
 
 This project combines time‑series forecasting, NLP‑driven news classification, and automated data pipelines to analyse how real‑time news sentiment influences VinFast's stock behaviour.
 Built as an interactive Streamlit dashboard, it brings together:
