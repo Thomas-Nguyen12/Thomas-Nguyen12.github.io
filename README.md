@@ -30,7 +30,7 @@ MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and da
 
 ### 🌦 Global Weather & Emissions Intelligence Dashboard
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/greenhouse_emissions.jpg?raw=true" alt="Global Weather & Emissions Dashboard" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/weather_website_gif.gif?raw=true" alt="Global Weather & Emissions Dashboard" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View app](https://weather-emission.streamlit.app/)
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/Weather_website)
@@ -50,7 +50,7 @@ The goal is to provide a practical, accessible tool for stakeholders to monitor 
 
 ### 📈 Exchange‑Rate Time Series Analysis & Forecasting Tool
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/world_currency.jpg?raw=true" alt="Exchange Rate Time Series Forecasting" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/gbp_rupiah.gif?raw=true" alt="Exchange Rate Time Series Forecasting" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View app](https://gbp-rupiah-exchange.streamlit.app/)
 🐙 [GitHub URL](https://github.com/Thomas-Nguyen12/GBP_Rupiah_Exchange)
@@ -67,7 +67,9 @@ The project demonstrates how data engineering, statistical modelling, and visual
 
 ### 📰 News Shield — AI Detection & Classification
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/news.jpg?raw=true" alt="News Shield AI Detection" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/newsShield.gif?raw=true" alt="News Shield AI Detection" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
+
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/vinfast_gif.gif?raw=true" alt="News Shield AI Detection" style="width: 100%; max-width: 800px; height: 220px; object-fit: cover; border-radius: 6px; display: block;" />
 
 🔗 [View NewsShield app](https://newsshield.streamlit.app)
 🔗 [View Vinfast Stock app](https://vinfast-stock-analysis.streamlit.app)
