@@ -1,7 +1,7 @@
 # Thomas Nguyen
 ### Data Scientist · Bioinformatician
 
-<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/headshot_natural.png?raw=true" alt="Thomas Nguyen" width="120"/>
+<img src="https://github.com/Thomas-Nguyen12/Thomas-Nguyen12.github.io/blob/main/images/headshot_natural.png?raw=true" alt="Thomas Nguyen" width="500" height="500"/>
 
 MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and data science. Experienced in **predictive analytics**, **dashboarding**, and the full data science lifecycle — currently exploring **time series analysis** applied to **finance** and **environmental data**.
 
