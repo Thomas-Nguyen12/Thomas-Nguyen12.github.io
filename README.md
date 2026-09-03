@@ -81,6 +81,8 @@ Built as an interactive Streamlit dashboard, it brings together:
 - Sentiment‑aware forecasting models that predict short‑term stock movement
 - Automated data ingestion using Scrapy, Requests, and BeautifulSoup
 - Visual analytics that help users explore volatility, sentiment shifts, and market signals
+- **Agentic AI** to summarise recent news changes
+- **CI/CD** to detect data drift in stock data
 
 The goal is to create a tool that improves market research efficiency by automating sentiment extraction and providing forward‑looking insights into how narrative trends may shape VinFast's price dynamics.
 
