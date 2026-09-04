@@ -58,22 +58,22 @@
   {
     "objectID": "Education.html",
     "href": "Education.html",
-    "title": "EDUCATION",
+    "title": "Education",
     "section": "",
-    "text": "MScR. Biomolecular Science (Bioinformatics) All Degree requirements achieved and awaiting graduation\nPure Bioinformatics research-based degree focused on identifying unique regulatory elements related to polymorphic imprinting using R and High-Performance Computing (HPC) clusters. Findings are regularly presented to wet lab members and non-technical staff. Key skills include big data analytics, science communication, Software Development, High Performance Computing, Linux, SLURM directives, and collaboration with academics in an academic environment. This is a BBSRC-funded project.\n\n\n\nBsc. Hons Biomedicine\nHigh 2.1\nRelevant Modules: Data Science for Biologists, Research Project\nResearch project focused upon analysing DNA methylation profiles in the placenta using Data Analytics using R in Rstudio, leveraging the tidyverse, Gviz, minfi, rtracklayer, and\nTxDb.Hsapiens.UCSC.hg38.knownGene. Keys processes include Data collection, Data wrangling, Data Normalisation and Exploratory Data Analysis."
+    "text": "MScR. Biomolecular Science (Bioinformatics) All Degree requirements achieved and awaiting graduation\nPure Bioinformatics research-based degree focused on identifying unique regulatory elements related to polymorphic imprinting using R and High-Performance Computing (HPC) clusters. Findings are regularly presented to wet lab members and non-technical staff. Key skills include big data analytics, science communication, Software Development, High Performance Computing, Linux, SLURM directives, and collaboration with academics in an academic environment. This is a BBSRC-funded project."
   },
   {
     "objectID": "Education.html#university-of-east-anglia-norwich-england-oct-2024---april-2026",
     "href": "Education.html#university-of-east-anglia-norwich-england-oct-2024---april-2026",
-    "title": "EDUCATION",
+    "title": "Education",
     "section": "",
     "text": "MScR. Biomolecular Science (Bioinformatics) All Degree requirements achieved and awaiting graduation\nPure Bioinformatics research-based degree focused on identifying unique regulatory elements related to polymorphic imprinting using R and High-Performance Computing (HPC) clusters. Findings are regularly presented to wet lab members and non-technical staff. Key skills include big data analytics, science communication, Software Development, High Performance Computing, Linux, SLURM directives, and collaboration with academics in an academic environment. This is a BBSRC-funded project."
   },
   {
     "objectID": "Education.html#university-of-east-anglia-norwich-england-sep-2021-june-2024",
     "href": "Education.html#university-of-east-anglia-norwich-england-sep-2021-june-2024",
-    "title": "EDUCATION",
-    "section": "",
-    "text": "Bsc. Hons Biomedicine\nHigh 2.1\nRelevant Modules: Data Science for Biologists, Research Project\nResearch project focused upon analysing DNA methylation profiles in the placenta using Data Analytics using R in Rstudio, leveraging the tidyverse, Gviz, minfi, rtracklayer, and\nTxDb.Hsapiens.UCSC.hg38.knownGene. Keys processes include Data collection, Data wrangling, Data Normalisation and Exploratory Data Analysis."
+    "title": "Education",
+    "section": "University of East Anglia | Norwich, England Sep 2021 – June 2024",
+    "text": "University of East Anglia | Norwich, England Sep 2021 – June 2024\nBsc. Hons Biomedicine\nHigh 2.1\nRelevant Modules: Data Science for Biologists, Research Project\nResearch project focused upon analysing DNA methylation profiles in the placenta using Data Analytics using R in Rstudio, leveraging the tidyverse, Gviz, minfi, rtracklayer, and\nTxDb.Hsapiens.UCSC.hg38.knownGene. Keys processes include Data collection, Data wrangling, Data Normalisation and Exploratory Data Analysis."
   }
 ]
