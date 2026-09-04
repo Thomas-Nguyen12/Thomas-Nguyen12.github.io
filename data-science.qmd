@@ -50,10 +50,10 @@ The project demonstrates how data engineering, statistical modelling, and visual
 ### 📰 NewsShield — AI Detection & Classification
 
 ::: {.project-links}
-[View VinFast Stock app](https://vinfast-stock-analysis.streamlit.app) &nbsp; [View on GitHub](https://github.com/Thomas-Nguyen12/NewsApplication)
+[View VinFast Stock app](https://newsshield.streamlit.app/) &nbsp; [View on GitHub](https://github.com/Thomas-Nguyen12/NewsApplication)
 :::
 
-This project combines time-series forecasting, NLP-driven news classification, and automated data pipelines to analyse how real-time news sentiment influences VinFast's stock behaviour. Built as an interactive Streamlit dashboard, it brings together:
+This project investigates how recent surges in A.I. in education and news can influence the media, combining: 
 
 - Web-scraped news feeds processed with a custom NLP pipeline (SpaCy + multi-label classification)
 - Automated data ingestion using Scrapy, Requests, and BeautifulSoup
@@ -71,6 +71,8 @@ This project combines time-series forecasting, NLP-driven news classification, a
 ::: {.project-links}
 [View VinFast Stock app](https://vinfast-stock-analysis.streamlit.app) &nbsp; [View on GitHub](https://github.com/Thomas-Nguyen12/NewsApplication)
 :::
+
+This project combines time-series forecasting, NLP-driven news classification, and automated data pipelines to analyse how real-time news sentiment influences VinFast's stock behaviour. Built as an interactive Streamlit dashboard, it brings together:
 
 - Sentiment-aware forecasting models that predict short-term stock movement
 - Visual analytics that help users explore volatility, sentiment shifts, and market signals
