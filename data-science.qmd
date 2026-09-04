@@ -53,7 +53,9 @@ The project demonstrates how data engineering, statistical modelling, and visual
 [View NewsShield app](https://newsshield.streamlit.app/) &nbsp; [View on GitHub](https://github.com/Thomas-Nguyen12/NewsApplication)
 :::
 
-This project investigates how recent surges in A.I. in education and news can influence the media, combining: 
+This project investigates how recent surges in A.I. in education and news can influence the media. I have built a model that can classify news topics and detect A.I. generated text. As such, users are able to better question information sources and avoid misinformation.
+
+This project combines: 
 
 - Web-scraped news feeds processed with a custom NLP pipeline (SpaCy + multi-label classification)
 - Automated data ingestion using Scrapy, Requests, and BeautifulSoup
