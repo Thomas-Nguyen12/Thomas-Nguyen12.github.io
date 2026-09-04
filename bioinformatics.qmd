@@ -3,7 +3,7 @@ title: "Bioinformatics & Genomics"
 ---
 
 ::: {.project-card}
-![](images/atac_dna.webp)
+![](images/atac_dna.jpg)
 
 ::: {.project-body}
 ### 🧬 ATAC-seq Peak Overlap & Regulatory Element Analysis
