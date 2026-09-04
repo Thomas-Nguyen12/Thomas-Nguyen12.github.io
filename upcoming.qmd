@@ -1,0 +1,27 @@
+---
+title: "Upcoming & Future Plans"
+---
+
+## Upcoming Projects
+
+::: {.project-card}
+::: {.project-body}
+### 💰 Loan Prediction App
+
+A dashboard to predict loan eligibility, with Quarto-generated technical documentation.
+:::
+:::
+
+::: {.project-card}
+::: {.project-body}
+### 🌐 Language Translation App
+
+English ↔ Indonesian translation using transformer models and data cleaning techniques.
+:::
+:::
+
+## Future Plans
+
+::: {.callout-tip}
+Looking ahead, I plan to deepen my work in **Natural Language Processing** and **Deep Learning** — specifically applying these techniques to news data for automated summarisation and trend prediction.
+:::

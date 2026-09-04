@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thomas Nguyen"
+  description: "Data Scientist · Bioinformatician"
+  favicon: images/headshot_natural.png
+  navbar:
+    logo: images/headshot_natural.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: data-science.qmd
+        text: Data Science & Finance
+      - href: bioinformatics.qmd
+        text: Bioinformatics & Genomics
+      - href: upcoming.qmd
+        text: Upcoming & Future Plans
+    right:
+      - icon: github
+        href: https://github.com/Thomas-Nguyen12
+      - icon: linkedin
+        href: https://www.linkedin.com/in/thomas-nguyen-818b63185/
+      - icon: envelope
+        href: mailto:thomas.nguyen3612@gmail.com
+  page-footer:
+    left: "© 2026 Thomas Nguyen"
+    right:
+      - icon: github
+        href: https://github.com/Thomas-Nguyen12
+      - icon: linkedin
+        href: https://www.linkedin.com/in/thomas-nguyen-818b63185/
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/custom.scss
+    css: styles/custom.css
+    toc: false
+    grid:
+      body-width: 950px
+    fontsize: 1.05rem
+    linkcolor: "#2563eb"

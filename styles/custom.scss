@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+$primary: #2563eb;
+$body-font-family: "Inter", "Segoe UI", -apple-system, sans-serif;
+$headings-font-family: "Inter", "Segoe UI", -apple-system, sans-serif;
+$headings-font-weight: 700;
+$navbar-bg: #ffffff;
+$link-color: $primary;
+
+/*-- scss:rules --*/
+
+.navbar-brand img {
+  border-radius: 50%;
+}
+
+h1.title {
+  font-weight: 800;
+}

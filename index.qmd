@@ -1,0 +1,38 @@
+---
+title: ""
+---
+
+::: {.hero}
+![](images/headshot_natural.png)
+
+::: {.hero-text}
+# Thomas Nguyen
+<div class="subtitle">Data Scientist · Bioinformatician</div>
+
+MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and data science. Experienced in **predictive analytics**, **Agentic AI**, **CI/CD**, and the full data science lifecycle — currently exploring **time series analysis** applied to **finance** and **environmental data**.
+
+::: {.badge-row}
+<span class="badge">Python</span><span class="badge">R</span><span class="badge">SQL</span><span class="badge">UNIX</span><span class="badge">Rust</span><span class="badge">Machine Learning</span><span class="badge">Bioinformatics</span>
+:::
+
+[📄 Education](Education.qmd){.btn .btn-outline-primary .btn-sm} &nbsp;
+[🐙 GitHub](https://github.com/Thomas-Nguyen12){.btn .btn-outline-primary .btn-sm} &nbsp;
+[💼 LinkedIn](https://www.linkedin.com/in/thomas-nguyen-818b63185/){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+## About this site
+
+This site walks through my project work across two areas:
+
+- **[Data Science & Finance](data-science.qmd)** — forecasting, NLP-driven classification, and interactive dashboards
+- **[Bioinformatics & Genomics](bioinformatics.qmd)** — sequencing pipelines, statistical genomics, and reproducible workflows
+
+Also see what's **[coming up next](upcoming.qmd)**, including in-progress apps and where I'm headed with NLP and deep learning.
+
+## Contact
+
+::: {.callout-note appearance="minimal"}
+📧 **Email:** [thomas.nguyen3612@gmail.com](mailto:thomas.nguyen3612@gmail.com)
+💼 **LinkedIn:** [thomas-nguyen-818b63185](https://www.linkedin.com/in/thomas-nguyen-818b63185/)
+:::
