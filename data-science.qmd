@@ -50,7 +50,7 @@ The project demonstrates how data engineering, statistical modelling, and visual
 ### 📰 NewsShield — AI Detection & Classification
 
 ::: {.project-links}
-[View VinFast Stock app](https://newsshield.streamlit.app/) &nbsp; [View on GitHub](https://github.com/Thomas-Nguyen12/NewsApplication)
+[View NewsShield app](https://newsshield.streamlit.app/) &nbsp; [View on GitHub](https://github.com/Thomas-Nguyen12/NewsApplication)
 :::
 
 This project investigates how recent surges in A.I. in education and news can influence the media, combining: 
