@@ -16,7 +16,7 @@ website:
       - href: bioinformatics.qmd
         text: Bioinformatics & Genomics
       - href: upcoming.qmd
-        text: Upcoming & Future Plans
+        text: Current & Upcoming Projects
     right:
       - icon: github
         href: https://github.com/Thomas-Nguyen12
