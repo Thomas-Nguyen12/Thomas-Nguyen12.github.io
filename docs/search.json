@@ -23,21 +23,28 @@
   {
     "objectID": "upcoming.html",
     "href": "upcoming.html",
-    "title": "Upcoming & Future Plans",
+    "title": "Current and Upcoming projects",
     "section": "",
-    "text": "A dashboard to predict loan eligibility, with Quarto-generated technical documentation.\n\n\n\n\n\nEnglish ↔︎ Indonesian translation using transformer models and data cleaning techniques."
+    "text": "View on GitHub\n\nWith sudden changes into the job market in the advent of A.I., it becomes increasingly important to adapt. This project aims to leverage new LLMs and agentic A.I. technologies to overcome the market.\nThis project is split into two parts:\n\nAnalysis of Job listings and trends\nAutomatic tailoring of CVs and cover letters for different jobs.\n\nPrototypes will be written in Python, and production code (can) be written in Rust - for performance."
+  },
+  {
+    "objectID": "upcoming.html#current-projects",
+    "href": "upcoming.html#current-projects",
+    "title": "Current and Upcoming projects",
+    "section": "",
+    "text": "View on GitHub\n\nWith sudden changes into the job market in the advent of A.I., it becomes increasingly important to adapt. This project aims to leverage new LLMs and agentic A.I. technologies to overcome the market.\nThis project is split into two parts:\n\nAnalysis of Job listings and trends\nAutomatic tailoring of CVs and cover letters for different jobs.\n\nPrototypes will be written in Python, and production code (can) be written in Rust - for performance."
   },
   {
     "objectID": "upcoming.html#upcoming-projects",
     "href": "upcoming.html#upcoming-projects",
-    "title": "Upcoming & Future Plans",
-    "section": "",
-    "text": "A dashboard to predict loan eligibility, with Quarto-generated technical documentation.\n\n\n\n\n\nEnglish ↔︎ Indonesian translation using transformer models and data cleaning techniques."
+    "title": "Current and Upcoming projects",
+    "section": "Upcoming Projects",
+    "text": "Upcoming Projects\n\n\n💰 Loan Prediction App\nA dashboard to predict loan eligibility, with Quarto-generated technical documentation.\n\n\n\n\n🌐 Language Translation App\nEnglish ↔︎ Indonesian translation using transformer models and data cleaning techniques."
   },
   {
     "objectID": "upcoming.html#future-plans",
     "href": "upcoming.html#future-plans",
-    "title": "Upcoming & Future Plans",
+    "title": "Current and Upcoming projects",
     "section": "Future Plans",
     "text": "Future Plans\n\n\n\n\n\n\nTip\n\n\n\nLooking ahead, I plan to deepen my work in Natural Language Processing and Deep Learning — specifically applying these techniques to news data for automated summarisation and trend prediction."
   },

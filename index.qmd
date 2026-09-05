@@ -1,9 +1,10 @@
 ---
 title: ""
-toc: true
 ---
 
 ::: {.hero}
+::: {.hero-banner}
+:::
 ![](images/headshot_natural.png)
 
 ::: {.hero-text}
@@ -31,6 +32,10 @@ This site walks through my project work across two areas:
 - **[Bioinformatics & Genomics](bioinformatics.qmd)** — sequencing pipelines, statistical genomics, and reproducible workflows
 
 Also see what's **[coming up next](upcoming.qmd)**, including in-progress apps and where I'm headed with NLP and deep learning.
+
+
+
+
 
 ## Contact
 

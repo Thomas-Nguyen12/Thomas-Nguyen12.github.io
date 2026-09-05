@@ -1,6 +1,32 @@
 ---
-title: "Upcoming & Future Plans"
+title: "Current and Upcoming projects"
 ---
+
+## Current Projects
+
+::: {.project-card}
+![](images/job_apply.png)
+
+
+::: {.project-body}
+### 📇 Job board Analysis
+
+::: {.project-links}
+[View on GitHub](https://github.com/Thomas-Nguyen12/apply_for_jobs)
+:::
+
+With sudden changes into the job market in the advent of A.I., it becomes increasingly important to adapt. This project aims to leverage new LLMs and agentic A.I. technologies to overcome the market.
+
+This project is split into two parts:
+
+1. Analysis of Job listings and trends
+2. Automatic tailoring of CVs and cover letters for different jobs.
+
+Prototypes will be written in Python, and production code (can) be written in Rust - for performance.
+
+:::
+:::
+
 
 ## Upcoming Projects
 
