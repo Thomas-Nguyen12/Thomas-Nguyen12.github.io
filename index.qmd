@@ -10,6 +10,7 @@ title: ""
 ::: {.hero-text}
 # Thomas Nguyen
 <div class="subtitle">Data Scientist · Bioinformatician</div>
+📍 London, United Kingdom
 
 MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and data science. Experienced in **predictive analytics**, **Agentic AI**, **CI/CD**, and the full data science lifecycle — currently exploring **time series analysis** applied to **finance** and **environmental data**.
 
