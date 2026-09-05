@@ -21,6 +21,7 @@ The dashboard allows users to:
 - Compare countries across multiple environmental indicators
 - Explore ML-driven classifications that highlight high-impact regions
 - Investigate climate patterns using real-time, continuously updated data
+- **CI/CD** to collect weather reports to eventually train a model for time series analysis
 
 The goal is to provide a practical, accessible tool for stakeholders to monitor climate change, understand environmental risk, and make data-driven decisions. It showcases how data engineering, modelling, and visual storytelling can turn complex environmental datasets into meaningful insight.
 :::
