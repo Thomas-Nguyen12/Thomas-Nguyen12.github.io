@@ -1,5 +1,6 @@
 ---
 title: ""
+toc: true
 ---
 
 ::: {.hero}
@@ -16,6 +17,7 @@ MScR Biomolecular Science (Bioinformatics) graduate with a passion for AI and da
 :::
 
 [📄 Education](Education.qmd){.btn .btn-outline-primary .btn-sm} &nbsp;
+[📊 Experience](experience.qmd){.btn .btn-outline-primary .btn-sm} &nbsp;
 [🐙 GitHub](https://github.com/Thomas-Nguyen12){.btn .btn-outline-primary .btn-sm} &nbsp;
 [💼 LinkedIn](https://www.linkedin.com/in/thomas-nguyen-818b63185/){.btn .btn-outline-primary .btn-sm}
 :::
