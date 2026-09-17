@@ -5,6 +5,30 @@ title: "Current and Upcoming projects"
 ## Current Projects
 
 ::: {.project-card}
+![](images/mini_intern.png)
+
+
+::: {.project-body}
+### 📇 Mini-Intern
+
+::: {.project-links}
+[View on GitHub](https://github.com/Thomas-Nguyen12/Mini-Intern)
+:::
+A project to create an open-source language model that is designed to follow instructions and be incorporated into agents.
+
+Current models have usage limits and paid tiers that decrease accessibility and make innovation difficult. This project aims to rectify these issues by providing a platform where users can innovate and thrive without the barrier of a subscription.
+
+
+:::
+:::
+
+
+
+
+
+
+
+::: {.project-card}
 ![](images/job_apply.png)
 
 
@@ -40,6 +64,7 @@ A dashboard to predict loan eligibility, with Quarto-generated technical documen
 
 ::: {.project-card}
 ::: {.project-body}
+
 ### 🌐 Language Translation App
 
 English ↔ Indonesian translation using transformer models and data cleaning techniques.
