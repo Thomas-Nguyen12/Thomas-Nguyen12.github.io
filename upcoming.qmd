@@ -9,7 +9,7 @@ title: "Current and Upcoming projects"
 
 
 ::: {.project-body}
-### 📇 Mini-Intern
+### 📇 Mini-Intern: An intern for all your mini needs
 
 ::: {.project-links}
 [View on GitHub](https://github.com/Thomas-Nguyen12/Mini-Intern)
