@@ -2,6 +2,28 @@
 title: "Work Experience"
 ---
 
+::: {.project-card}
+![](images/uea_2.jpg)
+
+::: {.project-body}
+### Bioinformatics Research Collaborator | University of East Anglia, 2026 to Present
+
+
+- Collaborating on ongoing academic bioinformatics research projects, contributing computational analysis, reproducible data-
+processing workflows, and bioinformatics expertise to biological research.
+- Supporting interpretation of complex biological datasets and the continued development of robust, reproducible computational
+research workflows.
+- Contributing MScR-developed ATAC-seq pipeline work and computational analysis to research papers currently being prepared for
+publication.
+
+
+:::
+:::
+
+
+
+
+
 
 
 
@@ -9,7 +31,7 @@ title: "Work Experience"
 ![](images/uea.jpg)
 
 ::: {.project-body}
-### Associate tutor at UEA | Norwich, England January – July 2025
+### Associate tutor of Science | University of East Anglia, January – July 2025
 
 - I taught basic data science skills within the Data Science for Biologists MSc course at the
 University of East Anglia.
